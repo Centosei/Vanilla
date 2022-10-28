@@ -17,8 +17,8 @@
         "nikic/fast-route": "~1.3"
     },
     "autoload": {
-        "osr-4": {
-            "NOFRAME\\": "src/"
+        "psr-4": {
+            "Noframe\\": "src/"
         }
     }
 }
