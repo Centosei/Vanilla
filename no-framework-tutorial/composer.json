@@ -1,0 +1,22 @@
+{
+    "name": "centosei/no-frame",
+    "description": "mvc design without framework",
+    "keywords": ["Your keyword", "Another keyword"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Centosei",
+            "email": "centosei@email.com",
+            "role": "Creator / Main Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "filp/whoops": "~2.1"
+    },
+    "autoload": {
+        "osr-4": {
+            "NOFRAME\\": "src/"
+        }
+    }
+}
